@@ -39,5 +39,3 @@ Step 5: Click on Disk and Select Disk size and Disk type. (Select Standard HDD f
 Step 6: Review and Click on `Create`
 
 <img width="972" height="261" alt="Screenshot 2026-04-10 194240" src="https://github.com/user-attachments/assets/44117626-9edd-47c5-a885-ede876e56ded" />
-
-<img width="1236" height="405" alt="image" src="https://github.com/user-attachments/assets/8a016ef8-44c9-44e8-b78e-c76fbab80b13" />
